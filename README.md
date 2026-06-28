@@ -1,14 +1,5 @@
 # Tinygrad
 
-A small lab to teach myself the basics of Autograd.
-
-Tinygrad uses a computational graph engine under a small neural network to handle forward pass and backpropagation. 
-
-```bash
-python test.py
-```
-# Tinygrad
-
 > **Status:** Complete
 
 A small learning lab for building the core ideas behind automatic differentiation and neural networks from scratch.
