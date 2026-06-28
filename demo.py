@@ -1,3 +1,5 @@
+# demo.py
+
 from network import MLP 
 from train import train, predict
 
